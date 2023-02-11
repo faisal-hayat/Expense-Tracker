@@ -9,9 +9,17 @@
 - Entity Framework Core Tools
 
 --- ---
+
 ## Add Models
 
 - Category
 - Transactions
 - Transactions
+
+--- ---
+
+## Adding Database Connection to Project
+
+- Add database connection 
+
 --- ---

@@ -598,6 +598,8 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
+# Lines added by me 
+Models/ApplicationDbContext.cs
 # JetBrains Rider
 
 ### VisualStudio Patch ###
