@@ -604,5 +604,5 @@ Models/ApplicationDbContext.cs
 
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
-
+.vs/*
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,visualstudiocode,microsoftoffice,aspnetcore,angular,react
