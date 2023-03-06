@@ -79,7 +79,7 @@ Update-Database
 ## Add Syncfuciont to thej Application
 [Syncfunction](https://www.syncfusion.com/aspnet-core-ui-controls?utm_source=youtube&utm_medium=video&utm_campaign=syncfusion_codaffection_yt)
 
-- 
+- We are using **_CDN_** for **_Syncfusion_**
 
 --- ---
 
@@ -92,5 +92,9 @@ Update-Database
 ## Additional tools Installed
 
 - Syncfusion EJ2 ASP.NET CORE
+- Add following line in **__ViewImports.cshtml_**
 
+```cshtml
+@addTagHelper *, Syncfusion.EJ2
+```
 --- ---
